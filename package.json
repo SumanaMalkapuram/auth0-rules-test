@@ -1,6 +1,6 @@
 {
   "name": "auth0-rules-local-testharness",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Deploy, execute, and test the output of Auth0 Rules using a webtask sandbox environment.",
   "author": "Sumana Malkapuram<sumana.malkapuram@auth0.com>",
   "main": "./lib/index.js",
